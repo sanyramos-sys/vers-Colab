@@ -1,2 +1,2 @@
 # vers-Colab
-material desenvolvido nas aulas de segunda
+material desenvolvido nas aulas de segunda feira
